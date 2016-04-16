@@ -1,23 +1,25 @@
-¦¦¦¦¦¦¦¯¯¯¦¦¦¦¦¦¦¯¯¯¦¦¦¦¦¦¦       Welcome To T2S(Text2Spech) wrote by ishu sharma
-¦¦¦¦¦¦¯¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¯¦¦¦¦
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦                    Requirement
-¦¦¦¦++¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦++¦¦¦¦   -> This is an Windows Version app it works any version of windows , so it will not work on mac and linux.
-¦¦¦¦¦++¦¦¦¦¦¦¦¦¦¦¦¦¦¦++¦¦¦¦   ->Extract the rar file in c:\ and don't try t change any directory name or location because in this program all static libraries and locations are used.
-¦¦¦¦++_____¦¦¦¦¦_____++¦¦¦¦   -> It is build on java so you required a java pre installed in you OS java se 7+. 
-¦¦¦¦_¦¦¦¦¦¦_¦¦¦_¦¦¦¦¦¦_¦¦¦¦   -> you required to make java as path system variable in windows.
-¦¦¦-+¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦+-¦¦¦
-¦¦¯¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¯¦¦                     How To
-¦¦_¦¦¦¦¦¦¦¦_____¦¦¦¦¦¦¦_¦¦¦   1.extract the rar file to c drive using winrar or any extracter.
-¦¦¦¦_-+¦¦¦¦¦¦¦¦¦¦¦¦¦+-_¦¦¦¦   2.open cmd and locate to path i.e c:\T2S folder.
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦   3. type "java -jar T2S.jar" without quotes in cmd.
-¦¦¦¦¦¦¦¦¯¦¦¦¦¦¦¦¦¦¯¦¦¦¦¦¦¦¦   4. follow the intructions.
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦_¦¦¦¦¦¦
-¦¦¦¦¦¦¦¦_¦¦¦¦¦¦¦¦¦_¦¦¦¦¦¦¦¦
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦                   Please Reports Bugs to ishubot@gmail.com
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
-
-¦¦¦¦+¦¦¦¦¦¦¦¦+¦¦+¦¦¦¦¦¦¦+¦¦¦+---¦¦¦+¦¦¦¦¦¦¦¦+
--¦¦++---¦¦+--++¦¦¦¦+----+¦¦¦¦+-¦¦¦¦¦¦¦+-----+
--¦¦¦----¦¦¦----++¦¦¦¦¦¦¦+¦¦+¦¦¦¦+¦¦¦¦¦¦¦¦+
--¦¦¦----¦¦¦------+----¦¦¦¦¦¦+¦¦++¦¦¦¦¦+--+
-¦¦¦¦+---¦¦¦------¦¦¦¦¦¦¦¦¦¦¦-+-+-¦¦¦¦¦¦¦¦¦¦+
+                     Welcome to T2S Open source voice synthesizer app - by Ishu Sharma 
+                      
+                      Requirements
+                      1.Required Windows platform only (i used static locations)
+                      2. Java se 7+
+                      3.Basic knowledge How to run java file
+                      
+                      How to:
+                      1. Download T2S.rar from download link.
+                      2. Extract that to c:\
+                      3. Now using cmd locate the T2S folder in c:\
+                      4. type java -jar T2S.jar
+                      5. Enjoy
+                      
+                      includes:
+                      1. Three voices are available in this program; mbrola voice U.S female, U.S male, U.S male 2
+                      2. You can save your text to audio file which is .WAV in format right now
+                      3. it has pitch configuration which leads to change the voice and speed rate to make voice slow in speed or high in speed
+                      4. pretty easy to use and very handy
+                      
+                      SAY NO TO PAID TTS SERVICE and USE THIS
+                      
+                      I would really glad if somebody will canovert it to GUI.
+                      
+                      Report Bugs ishubot@gmail.com  or Correct on github
