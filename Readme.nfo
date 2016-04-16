@@ -13,13 +13,17 @@
                       5. Enjoy
                       
                       includes:
-                      1. Three voices are available in this program; mbrola voice U.S female, U.S male, U.S male 2
+                      1. Three voices are available in this program; mbrola voice
+                      U.S female, U.S male, U.S male 2
                       2. You can save your text to audio file which is .WAV in format right now
-                      3. it has pitch configuration which leads to change the voice and speed rate to make voice slow in speed or high in speed
+                      3. it has pitch configuration which leads to change the voice and speed 
+                      rate to make voice slow in speed or high in speed
                       4. pretty easy to use and very handy
                       
                       SAY NO TO PAID TTS SERVICE and USE THIS
                       
                       I would really glad if somebody will canovert it to GUI.
                       
-                      Report Bugs ishubot@gmail.com  or Correct on github
+                      Source code available you can do anything with them.(Required freetts lib files in build path to run this on ide)
+                      
+                      Report Bugs ishubot@gmail.com  or Correct on github https://github.com/idroid007/T2S/
