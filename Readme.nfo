@@ -6,7 +6,7 @@
                       3.Basic knowledge How to run java file
                       
                       How to:
-                      1. Download T2S.rar from download link.
+                      1. Download T2S.rar from download link - http://www.mediafire.com/download/rcx6ra22c76fpn2/T2S.zip.
                       2. Extract that to c:\
                       3. Now using cmd locate the T2S folder in c:\
                       4. type java -jar T2S.jar
